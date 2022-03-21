@@ -1,0 +1,26 @@
+{
+  "name": "working-environment",
+  "version": "1.0.0",
+  "description": "\"Browser based game\"",
+  "main": "environment.js",
+  "scripts": {
+    "start": "live-server src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vasilij-jV/working-environment.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Vasilij",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vasilij-jV/working-environment/issues"
+  },
+  "homepage": "https://github.com/Vasilij-jV/working-environment#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
